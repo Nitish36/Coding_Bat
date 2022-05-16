@@ -1,0 +1,13 @@
+package codingbat;
+
+public class HelloString {
+	public String helloName(String name) {
+		  return "Hello "+name+"!";
+		}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
